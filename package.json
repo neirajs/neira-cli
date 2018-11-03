@@ -1,0 +1,8 @@
+{
+  "name": "neira",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:neirajs/neira-cli.git",
+  "author": "Ade Yahya <adeyahyaprasetyo@gmail.com>",
+  "license": "MIT"
+}
